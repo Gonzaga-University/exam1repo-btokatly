@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+import java.util.Scanner;
 
 class Adder():
     def __init__(self, val1, val2, val3):

@@ -1,4 +1,5 @@
 package edu.gonzaga;
+//import java.util.Scanner;
 
 class Adder {
     int val1;
@@ -10,14 +11,6 @@ class Adder {
         val2 = new_val2;
         val3 = new_val3;
     }
-
-    /*
-    public int Add() {
-        return val1 + val2;
-    }
-     */
-
-
 }
 
 public class Main {
